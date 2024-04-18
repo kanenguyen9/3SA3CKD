@@ -1,2 +1,2 @@
 # 3SA3CKD
-Classification fo CKD Patients using 6 Criteria
+Classification of CKD Patients using 6 Criteria
